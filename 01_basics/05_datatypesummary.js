@@ -49,6 +49,37 @@
 // console.log(greet,typeof greet);
 
 
+// STACK & HEAP
+
+// Primitives are stored in STACK
+
+// Non Primitives are stored in HEAP
+
+// let myChannel = "Naughty JavaScript"
+
+// let myNewChannel = myChannel;
+
+// console.log(myChannel,myNewChannel);
+
+//myChannel = "Amazing Javascript";
+// myNewChannel = "Ultimate Javascript"
+
+// console.log(myChannel,myNewChannel);
+
+
+
+// let myCar = {
+//     make:"Honda",
+//     model:"CRV",
+//     fuel:"Petrol"
+// }
+
+// let yourCar = myCar;
+// console.log(myCar.make,yourCar.make);
+// myCar.make = "Toyota";
+// console.log(myCar.make,yourCar.make);
+
+
 
 
 
